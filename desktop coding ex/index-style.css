@@ -1,0 +1,42 @@
+
+    body{
+        background-color:#d3e2d9;
+        color:#22333b;
+    }
+
+    h1{
+        color:#22333b;
+        border-radius:25px;
+        background-color:#e8e6de;
+        font-family:DancingScriptRegular, cursive;
+        padding-top:8px;
+        padding-bottom:10px;
+        text-align:center;
+    }
+
+    .ProfilePic{
+        text-align: center;
+        background-color:#d3e2d9;
+        padding-bottom:35px;
+    }
+
+    img{
+        border-radius:100px;
+        margin:auto;
+        width:300px;
+        height:200px;
+    }
+
+    div{
+        border-radius:25px;
+        max-width:800px;
+        font-family:Verdana;
+        margin:auto;
+        background-color:#ffffff;
+        padding:10px;
+    }
+
+    h2{
+        color:#e8e6de;
+        border-bottom-style: dashed;
+    }
