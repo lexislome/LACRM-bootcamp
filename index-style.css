@@ -1,14 +1,14 @@
 
     body{
-        background-color:#d3e2d9;
+        background-color:#deedec;
         color:#22333b;
     }
 
     h1{
         color:#22333b;
+        font-family:Verdana;
         border-radius:25px;
         background-color:#e8e6de;
-        font-family:Verdana;
         padding-top:8px;
         padding-bottom:10px;
         text-align:center;
