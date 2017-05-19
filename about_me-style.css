@@ -1,31 +1,31 @@
-    body{
-        font-family:verdana;
-        background-color:#e8e6de;
-    }
+body{
+    font-family:'segoe ui light';
+    background-color:#e8e6de;
+}
 
-    h1{
-        font-family:verdana;
-    }
+h1{
+    font-family:castellar;
+}
 
-    p{
-        font-family:verdana;
-    }
+p{
+    font-family:'segoe ui light';
+}
 
-    h2{
-        font-family:verdana;
-        background-color:#deedec;
-        border-radius:25px;
-        padding:10px;
-    }
+h2{
+    font-family:castellar;
+    background-color:#deedec;
+    border-radius:25px;
+    padding:10px;
+}
 
-    div{
-        font-family:verdana;
-        border-radius:25px;
-        max-width:800px;
-        background-color:#ffffff;
-        padding:5px;
-    }
+div{
+    font-family:'segoe ui light';
+    border-radius:25px;
+    max-width:800px;
+    background-color:#ffffff;
+    padding:5px;
+}
 
-    span{
-        color:#aeafae
-    }
+span{
+    color:#aeafae
+}
