@@ -1,11 +1,12 @@
-<html>
-    <head>
-        <title>exploring</title>
-    <head>
+<?php
+include('config/init.php');
+tabHeader('About Me');
+?>
 
-    <body>
-        <h1>Exploring and Travel</h1>
+<?php
+tabH1('Exploring and Travel');
+ ?>
 
-    </body>
-
-</html>
+ <?php
+ tabFooter();
+  ?>

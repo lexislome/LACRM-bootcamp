@@ -1,0 +1,35 @@
+body{
+    font-family:'Open Sans Condensed', sans-serif;
+    background-color:#e8e6de;
+    font-size: 120%;
+    letter-spacing: 2px;
+}
+
+h1{
+    font-family:'Playfair Display SC', serif;
+    letter-spacing: 6px;
+}
+
+p{
+    font-family:'Open Sans Condensed', sans-serif;
+}
+
+h2{
+    font-family:'Playfair Display SC', serif;
+    letter-spacing: 6px;
+    background-color:#deedec;
+    border-radius:25px;
+    padding:10px;
+}
+
+div{
+    font-family:'Open Sans Condensed', sans-serif;
+    border-radius:25px;
+    max-width:800px;
+    background-color:#ffffff;
+    padding:5px;
+}
+
+span{
+    color:#aeafae
+}
